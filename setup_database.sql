@@ -1,6 +1,3 @@
--- setup_database.sql
--- Database HN Amanah Travel dengan login admin, form pendaftaran publik, dan CRUD paket, testimoni, serta pendaftaran.
--- Import file ini melalui phpMyAdmin.
 
 CREATE DATABASE IF NOT EXISTS sacred_journey;
 USE sacred_journey;
